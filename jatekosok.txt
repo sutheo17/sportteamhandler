@@ -1,0 +1,12 @@
+2
+Sutheo Istvan
+7	20	190
+Vegh Istvan
+9	21	200
+1
+Zubkov Rebrov
+99	30	200
+1
+Lebron James Jr.
+55	15	180
+0
